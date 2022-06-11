@@ -40,9 +40,6 @@ useEffect(() => {
   }
 
 }, [isAuth])
-
-
-
   return (
     <div>
       Login
